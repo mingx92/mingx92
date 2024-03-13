@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ming Xiang 
+I'm Ming Xiang 😜
 
 - 🌱 I’m currently learning CS for Georgia Institue of Technology
 - 🔭 I’m currently working on ML and DS projects. Interested to implement in real-life applications.
