@@ -3,7 +3,7 @@
 I'm Ming Xiang 😜
 
 - 🌱 I’m currently taking a CS Masters from Georgia Institue of Technology
-- 🔭 I’m currently working on ML and DS projects. Interested to implement in real-life applications.
+- 🔭 I’m currently studying ML and DS topics. Interested to work on real-world applications.
 
 <!--
 **mingx92/mingx92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
